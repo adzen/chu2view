@@ -1148,6 +1148,7 @@ let chu2_javascript = `
                            
               Array.from(doc.querySelectorAll('.play_musicdata_highscore')).forEach(function (x) {
                 let title = x.previousSibling.previousSibling.previousSibling.previousSibling.innerText;
+                if( reg.music_genre.find(o => o.title == title) == undefined ) return;
                 let entry = reg.mybest.find(s => s.diff == reg.allDiff[di] && s.title == title);
                 entry.score = parseInt(x.innerText.trim().substring(11).replaceAll(',', ''));
                 entry.rank = reg.score2rank(entry.score);
