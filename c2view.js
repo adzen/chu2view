@@ -1045,6 +1045,9 @@ let chu2_javascript = `
             o.when = when[i];
             o.diff = diff[i];
             o.rank = this.score2rank(o.score);
+
+            if( this.music_genre.find(x => x.title == o.title) == undefined ) continue;
+
             o.genre = this.music_genre.find(x => x.title == o.title).genre;
             o.outer = this.outer.find(x => x.title == o.title)[o.diff];
             o.internal = this.findInternal(o.title, o.diff, o.outer);
