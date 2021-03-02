@@ -1011,7 +1011,7 @@ let chu2_javascript = `
 
         findInternal(title, diff, outer){
           let ans = this.inner.find(x => x.title == title)[diff];
-          if(ans < 0.5) ans = outer.endsWith('+') ? parseInt(outer) + 0.8 : parseInt(outer) <= 6 ? parseInt(outer) + 0.45 : parseInt(outer) + 0.3;
+          if(ans < 0.5) ans = outer.endsWith('+') ? parseInt(outer) + 0.8 : parseInt(outer) <= 6 ? parseInt(outer) : parseInt(outer) + 0.3;
           return ans;
         },
 
