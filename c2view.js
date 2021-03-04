@@ -468,6 +468,11 @@ let chu2_javascript = `
           {title: \"混沌を越えし我らが神聖なる調律主を讃えよ\", genre: \"ORIGINAL\"},
           {title: \"GIGA DRIVE\", genre: \"ORIGINAL\"},
           {title: \"Contrapasso -inferno-\", genre: \"ORIGINAL\"},
+          {title: \"popcorn\", genre: \"ORIGINAL\"},
+          {title: \"Pastel Party\", genre: \"ORIGINAL\"},
+          {title: \"はちみつアドベンチャー\", genre: \"ORIGINAL\"},
+          {title: \"CHOCOLATE BOMB!!!!\", genre: \"ORIGINAL\"},
+          {title: \"Twilight\", genre: \"ORIGINAL\"},
         ], // end of music genre
 
         outer: [
@@ -674,6 +679,11 @@ let chu2_javascript = `
           {title: \"混沌を越えし我らが神聖なる調律主を讃えよ\", BASIC: \"5\", ADVANCED: \"9+\", EXPERT: \"13\", MASTER: \"14\"},
           {title: \"GIGA DRIVE\", BASIC: \"4\", ADVANCED: \"9\", EXPERT: \"12+\", MASTER: \"13+\"},
           {title: \"Contrapasso -inferno-\", BASIC: \"4\", ADVANCED: \"9+\", EXPERT: \"12\", MASTER: \"13+\"},
+          {title: \"popcorn\", BASIC: \"2\", ADVANCED: \"6\", EXPERT: \"9+\", MASTER: \"11+\"},
+          {title: \"Pastel Party\", BASIC: \"2\", ADVANCED: \"6\", EXPERT: \"10+\", MASTER: \"12+\"},
+          {title: \"はちみつアドベンチャー\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"9\", MASTER: \"12\"},
+          {title: \"CHOCOLATE BOMB!!!!\", BASIC: \"3\", ADVANCED: \"7\", EXPERT: \"10+\", MASTER: \"13\"},
+          {title: \"Twilight\", BASIC: \"3\", ADVANCED: \"6\", EXPERT: \"11\", MASTER: \"13\"},
         ], // end of outer difficulty
 
         inner: [
@@ -879,6 +889,11 @@ let chu2_javascript = `
           {title: \"混沌を越えし我らが神聖なる調律主を讃えよ\", BASIC: 0, ADVANCED: 0, EXPERT: 13.3, MASTER: 14.1},
           {title: \"GIGA DRIVE\", BASIC: 0, ADVANCED: 0, EXPERT: 12.7, MASTER: 13.9},
           {title: \"Contrapasso -inferno-\", BASIC: 0, ADVANCED: 0, EXPERT: 12.1, MASTER: 13.9},
+          {title: \"popcorn\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 11.9},
+          {title: \"Pastel Party\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 12.9},
+          {title: \"はちみつアドベンチャー\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 12.4},
+          {title: \"CHOCOLATE BOMB!!!!\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.3},
+          {title: \"Twilight\", BASIC: 0, ADVANCED: 0, EXPERT: 11.4, MASTER: 13.5},
         ], // end of inner difficulty
       }), // end of data
 
