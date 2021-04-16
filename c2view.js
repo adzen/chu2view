@@ -487,6 +487,12 @@ let chu2_javascript = `
           {title: \"はちみつアドベンチャー\", genre: \"ORIGINAL\"},
           {title: \"CHOCOLATE BOMB!!!!\", genre: \"ORIGINAL\"},
           {title: \"Twilight\", genre: \"ORIGINAL\"},
+          {title: \"First Twinkle\", genre: \"ORIGINAL\"},
+          {title: \"最愛テトラグラマトン\", genre: \"ORIGINAL\"},
+          {title: \"ゲシュタルト！テスト期間！！\", genre: \"ORIGINAL\"},
+          {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", genre: \"ORIGINAL\"},
+          {title: \"願い星\", genre: \"ORIGINAL\"},
+          {title: \"オススメ☆♂♀☆でぃすとぴあ\", genre: \"ORIGINAL\"},
         ], // end of music genre
 
         outer: [
@@ -712,6 +718,12 @@ let chu2_javascript = `
           {title: \"はちみつアドベンチャー\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"9\", MASTER: \"12\"},
           {title: \"CHOCOLATE BOMB!!!!\", BASIC: \"3\", ADVANCED: \"7\", EXPERT: \"10+\", MASTER: \"13\"},
           {title: \"Twilight\", BASIC: \"3\", ADVANCED: \"6\", EXPERT: \"11\", MASTER: \"13\"},
+          {title: \"First Twinkle\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"8+\", MASTER: \"11\"},
+          {title: \"最愛テトラグラマトン\", BASIC: \"3\", ADVANCED: \"6\", EXPERT: \"9+\", MASTER: \"12+\"},
+          {title: \"ゲシュタルト！テスト期間！！\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"9\", MASTER: \"12+\"},
+          {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", BASIC: \"3\", ADVANCED: \"6\", EXPERT: \"9+\", MASTER: \"13\"},
+          {title: \"願い星\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"8+\", MASTER: \"11\"},
+          {title: \"オススメ☆♂♀☆でぃすとぴあ\", BASIC: \"4\", ADVANCED: \"7+\", EXPERT: \"10\", MASTER: \"13\"},
         ], // end of outer difficulty
 
         inner: [
@@ -936,6 +948,12 @@ let chu2_javascript = `
           {title: \"はちみつアドベンチャー\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 12.4},
           {title: \"CHOCOLATE BOMB!!!!\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.3},
           {title: \"Twilight\", BASIC: 0, ADVANCED: 0, EXPERT: 11.4, MASTER: 13.5},
+          {title: \"First Twinkle\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 11.6},
+          {title: \"最愛テトラグラマトン\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 12.7},
+          {title: \"ゲシュタルト！テスト期間！！\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 12.7},
+          {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.1},
+          {title: \"願い星\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 11.6},
+          {title: \"オススメ☆♂♀☆でぃすとぴあ\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.4},
         ], // end of inner difficulty
       }), // end of data
 
