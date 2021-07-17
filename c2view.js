@@ -393,8 +393,7 @@ let chu2_javascript = `
           {title: \"ハート・ビート\", genre: \"イロドリミドリ\"},
           {title: \"brilliant better\", genre: \"イロドリミドリ\"},
           {title: \"フォルテシモBELL\", genre: \"イロドリミドリ\"},
-          {title: \"私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察\", 
-            genre: \"イロドリミドリ\"},
+          {title: \"私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察\", genre: \"イロドリミドリ\"},
           {title: \"DETARAME ROCK&ROLL THEORY\", genre: \"イロドリミドリ\"},
           {title: \"猛進ソリストライフ！\", genre: \"イロドリミドリ\"},
           {title: \"My Dearest Song\", genre: \"イロドリミドリ\"},
@@ -499,6 +498,7 @@ let chu2_javascript = `
           {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", genre: \"ORIGINAL\"},
           {title: \"願い星\", genre: \"ORIGINAL\"},
           {title: \"オススメ☆♂♀☆でぃすとぴあ\", genre: \"ORIGINAL\"},
+          {title: \"Climax\", genre: \"ORIGINAL\"},
         ], // end of music genre
 
         outer: [
@@ -736,6 +736,7 @@ let chu2_javascript = `
           {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", BASIC: \"3\", ADVANCED: \"6\", EXPERT: \"9+\", MASTER: \"13\"},
           {title: \"願い星\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"8+\", MASTER: \"11\"},
           {title: \"オススメ☆♂♀☆でぃすとぴあ\", BASIC: \"4\", ADVANCED: \"7+\", EXPERT: \"10\", MASTER: \"13\"},
+          {title: \"Climax\", BASIC: \"4\", ADVANCED: \"9+\", EXPERT: \"12+\", MASTER: \"13+\"},
         ], // end of outer difficulty
 
         inner: [
@@ -972,6 +973,7 @@ let chu2_javascript = `
           {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.1},
           {title: \"願い星\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 11.6},
           {title: \"オススメ☆♂♀☆でぃすとぴあ\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.4},
+          {title: \"Climax\", BASIC: 0, ADVANCED: 0, EXPERT: 12.7, MASTER: 13.9},
         ], // end of inner difficulty
       }), // end of data
 
