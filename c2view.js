@@ -498,7 +498,14 @@ let chu2_javascript = `
           {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", genre: \"ORIGINAL\"},
           {title: \"願い星\", genre: \"ORIGINAL\"},
           {title: \"オススメ☆♂♀☆でぃすとぴあ\", genre: \"ORIGINAL\"},
+          {title: \"朝焼けプラットホーム\", genre: \"ORIGINAL\"},
+          {title: \"RevolutionGame\", genre: \"ORIGINAL\"},
+          {title: \"明るい未来\", genre: \"ORIGINAL\"},
+          {title: \"D.E.A.D.L.Y.\", genre: \"ORIGINAL\"},
+          {title: \"立川浄穢捕物帳\", genre: \"ORIGINAL\"},
+          {title: \"Supersonic Generation\", genre: \"ORIGINAL\"},
           {title: \"Climax\", genre: \"ORIGINAL\"},
+          {title: \"宿星審判\", genre: \"ORIGINAL\"},
         ], // end of music genre
 
         outer: [
@@ -736,7 +743,14 @@ let chu2_javascript = `
           {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", BASIC: \"3\", ADVANCED: \"6\", EXPERT: \"9+\", MASTER: \"13\"},
           {title: \"願い星\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"8+\", MASTER: \"11\"},
           {title: \"オススメ☆♂♀☆でぃすとぴあ\", BASIC: \"4\", ADVANCED: \"7+\", EXPERT: \"10\", MASTER: \"13\"},
+          {title: \"朝焼けプラットホーム\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"9\", MASTER: \"11\"},
+          {title: \"RevolutionGame\", BASIC: \"2\", ADVANCED: \"5\", EXPERT: \"8+\", MASTER: \"11+\"},
+          {title: \"明るい未来\", BASIC: \"4\", ADVANCED: \"6\", EXPERT: \"9\", MASTER: \"12\"},
+          {title: \"D.E.A.D.L.Y.\", BASIC: \"3\", ADVANCED: \"6\", EXPERT: \"9\", MASTER: \"12\"},
+          {title: \"立川浄穢捕物帳\", BASIC: \"3\", ADVANCED: \"6\", EXPERT: \"9+\", MASTER: \"13\"},
+          {title: \"Supersonic Generation\", BASIC: \"4\", ADVANCED: \"7\", EXPERT: \"11\", MASTER: \"13\"},
           {title: \"Climax\", BASIC: \"4\", ADVANCED: \"9+\", EXPERT: \"12+\", MASTER: \"13+\"},
+          {title: \"宿星審判\", BASIC: \"4\", ADVANCED: \"9+\", EXPERT: \"12+\", MASTER: \"14\"},
         ], // end of outer difficulty
 
         inner: [
@@ -973,7 +987,14 @@ let chu2_javascript = `
           {title: \"おまかせ！！トラブルメイ娘☆とれびちゃん\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.1},
           {title: \"願い星\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 11.6},
           {title: \"オススメ☆♂♀☆でぃすとぴあ\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.4},
+          {title: \"朝焼けプラットホーム\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 11.6},
+          {title: \"RevolutionGame\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 11.7},
+          {title: \"明るい未来\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 12.3},
+          {title: \"D.E.A.D.L.Y.\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 12.4},
+          {title: \"立川浄穢捕物帳\", BASIC: 0, ADVANCED: 0, EXPERT: 0, MASTER: 13.0},
+          {title: \"Supersonic Generation\", BASIC: 0, ADVANCED: 0, EXPERT: 11.2, MASTER: 13.4},
           {title: \"Climax\", BASIC: 0, ADVANCED: 0, EXPERT: 12.7, MASTER: 13.9},
+          {title: \"宿星審判\", BASIC: 0, ADVANCED: 0, EXPERT: 12.8, MASTER: 14.0},
         ], // end of inner difficulty
       }), // end of data
 
