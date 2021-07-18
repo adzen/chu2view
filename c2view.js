@@ -675,7 +675,7 @@ let chu2_javascript = `
           {title: \"JULIAN\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"10+\", MASTER: \"12+\"},
           {title: \"Strahv\", BASIC: \"3\", ADVANCED: \"7+\", EXPERT: \"11\", MASTER: \"13\"},
           {title: \"GOODTEK\", BASIC: \"4\", ADVANCED: \"7\", EXPERT: \"10+\", MASTER: \"13\"},
-          {title: \"Name of oath\", BASIC: \"3\", ADVANCED: \"7\", EXPERT: \"11\", MASTER: \"12\"},
+          {title: \"Name of oath\", BASIC: \"3\", ADVANCED: \"7\", EXPERT: \"11\", MASTER: \"13\"},
           {title: \"Bird Sprite\", BASIC: \"3\", ADVANCED: \"5\", EXPERT: \"8+\", MASTER: \"12\"},
           {title: \"AVALON\", BASIC: \"4\", ADVANCED: \"7+\", EXPERT: \"11+\", MASTER: \"13\"},
           {title: \"volcanic\", BASIC: \"4\", ADVANCED: \"9\", EXPERT: \"12\", MASTER: \"13\"},
