@@ -1138,7 +1138,7 @@ let chu2_javascript = `
           {title: \"Memory of Beach\", BASIC: 0, ADVANCED: 0, EXPERT: 10.3, MASTER: 12.8},
           {title: \"SON OF SUN\", BASIC: 0, ADVANCED: 0, EXPERT: 12.7, MASTER: 13.6},
           {title: \"Sound Chimera\", BASIC: 0, ADVANCED: 9, EXPERT: 11, MASTER: 13.8},
-          {title: \"Blackmagik Blazing\", BASIC: 0, ADVANCED: 9, EXPERT: 12.5, MASTER: 13.9},
+          {title: \"Blackmagik Blazing\", BASIC: 0, ADVANCED: 0, EXPERT: 12.5, MASTER: 13.9},
           {title: \"BATTLE NO.1\", BASIC: 0, ADVANCED: 0, EXPERT: 12.1, MASTER: 13.9},
           {title: \"セイクリッド　ルイン\", BASIC: 0, ADVANCED: 0, EXPERT: 11.3, MASTER: 13.5},
           {title: \"極圏\", BASIC: 0, ADVANCED: 0, EXPERT: 11.7, MASTER: 13.6},
